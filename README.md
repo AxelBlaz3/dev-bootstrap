@@ -40,7 +40,7 @@ The `setup_flutter.py` script automates the installation of the Flutter SDK. It 
 1. Clone this repository:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/dev-bootstrap.git](https://github.com/YOUR_USERNAME/dev-bootstrap.git)
+git clone https://github.com/AxelBlaz3/dev-bootstrap.git
 cd dev-bootstrap
 
 ```
